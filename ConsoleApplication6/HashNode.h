@@ -30,7 +30,7 @@ public:
         }
         return true;
     }
-    int getSet(int n)
+    int getSet(int n) // velikost pole
     {
         if (n % 2 == 0)
         {
